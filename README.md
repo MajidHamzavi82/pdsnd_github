@@ -15,5 +15,5 @@ This project performs descriptive analysis on the bikeshare data from three majo
 * bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+[Udacity Bike Share Project] (https://github.com/udacity/pdsnd_github) is the source to initiate the course and follow instructions to make up your own git project done!
 
