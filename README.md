@@ -9,10 +9,10 @@ Bike Share
 This project performs descriptive analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
 
 ### Files used
-washington.csv
-new_york_city.csv
-chicago.csv
-bikeshare.py
+* washington.csv
+* new_york_city.csv
+* chicago.csv
+* bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
